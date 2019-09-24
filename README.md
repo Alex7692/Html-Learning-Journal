@@ -1,0 +1,2 @@
+# Html-Learning-Journal
+A self-keeping journal of learning Html. Progress will be recorded for every one to two weeks (Could be different during holidays). The journal will be consisted of a short description, the html file, the source code and some personal thoughts. It is not suggested for anyone to use it as a reference for personal coding usages, but it is suggested for anyone who are interested in how a "newbee" in coding is gradually improving his skills through time : )
